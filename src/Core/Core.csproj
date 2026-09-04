@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Cs2Legit.Core</RootNamespace>
+    <AssemblyName>Cs2Legit.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
